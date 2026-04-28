@@ -37,6 +37,7 @@ var centerMenu = [{
 
 var indexNav = [
 
+
 {
 	name: '公告信息',
 	url: './pages/gonggaoxinxi/list.html'
